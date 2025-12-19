@@ -1,0 +1,8 @@
+{
+  "name": "WROM GPT",
+  "description": "Apex Intelligence Interface featuring Live Voice Mode and Grounded Chat capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
